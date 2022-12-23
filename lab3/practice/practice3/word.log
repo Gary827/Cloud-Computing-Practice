@@ -1,0 +1,6 @@
+map_result: [['Hadoop', 'is', 'good'], ['Spark', 'is', 'fast'], ['Spark', 'is', 'better']]
+flatMap_result: ['Hadoop', 'is', 'good', 'Spark', 'is', 'fast', 'Spark', 'is', 'better']
+filter_result: ['Spark is fast', 'Spark is better']
+reduce_result: 10
+count_result: 4
+collect_result: [1, 2, 3, 4]
